@@ -6,7 +6,7 @@ We use postman for testing
 	http://localhost:3000/tasks
 
 2. To add new todo use POST request
-	http://localhost:3000/tasks
+	http://localhost:3000/tasks <br>
 	{
 		"__v": 0,
 		"name" : "test",
