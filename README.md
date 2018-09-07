@@ -3,10 +3,12 @@ simple todo app using nodejs, mongo
 
 We use postman for testing
 1. To select all todo use GET request
+
 	http://localhost:3000/tasks
 
 2. To add new todo use POST request
-	http://localhost:3000/tasks <br>
+	http://localhost:3000/tasks
+
 	{
 		"__v": 0,
 		"name" : "test",
